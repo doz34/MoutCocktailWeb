@@ -4,7 +4,10 @@
 node_modules/
 
 # Expo
+
+.DS_Store
 .expo/
+.expo-shared
 dist/
 web-build/
 
